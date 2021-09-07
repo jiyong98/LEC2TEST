@@ -1,2 +1,2 @@
-각오: 
+학번: 
 printf("hello would")
